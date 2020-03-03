@@ -17,7 +17,7 @@ MAX_FD="maximum"
 
 warn ( ) {
     echo "$*"
-}
+}kludge
 
 die ( ) {
     echo
